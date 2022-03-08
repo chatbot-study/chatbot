@@ -1,3 +1,3 @@
 # chatbot
 
-This repo contains anonymous-for-review versions of the interview scripts and surveys from our healthcare chatbot study.
+This repo contains artifacts from our healthcare chatbot study: interview scripts, survey questionnaires, HIPAA authorization documents, and prototype examples.
