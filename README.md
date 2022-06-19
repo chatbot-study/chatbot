@@ -61,4 +61,8 @@ This directory contains the full text of the HIPAA authorization documents and o
 
 # License information
 
-TBD 
+The screenshots in the prototype_images directory contain some visual assets belonging to our study sponsor, and we ask that researchers and others refrain from replicating or sharing those without reaching out to us first. We will be happy to work to find a solution with any researchers interested in conducting a replication study.
+
+All other content here is acceptable to use for non-commercial purposes under [CC BY-NC 4.0 license](https://creativecommons.org/licenses/by-nc/4.0/).
+
+
