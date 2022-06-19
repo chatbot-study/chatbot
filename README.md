@@ -59,3 +59,6 @@ These directories contain the surveys from Phases 2 and 3 of the study. These fi
 
 This directory contains the full text of the HIPAA authorization documents and other documents shown to participants in each version of the prototype.
 
+# License information
+
+TBD 
